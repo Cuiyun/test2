@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>age</key>
+	<string>30</string>
+	<key>name</key>
+	<string>40</string>
+	<key>height</key>
+	<integer>100</integer>
+	<key>format</key>
+	<string>(%K in {&apos;30&apos;,&apos;40&apos;}) AND (%K &gt; 30)&amp;age|height</string>
+</dict>
+</plist>
