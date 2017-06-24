@@ -4,3 +4,4 @@
 
 ### 其次，测试一下md的语法使用
 * 顺便测试一下md语法哦，(*^__^*) 嘻嘻……，[我的博客](http://baidu.com)
+![icon][http://mouapp.com/Mou_128.png]
