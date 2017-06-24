@@ -29,6 +29,8 @@
     panSign.maximumNumberOfTouches = 1;
     [self.view addGestureRecognizer:panSign];
     
+    
+    
     [self test5];
 }
 
