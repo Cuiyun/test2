@@ -11,11 +11,11 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
   s.summary      = "A Test For Pod Project"
   s.homepage     = "https://github.com/Cuiyun/test2"
-  s.license      = "MIT"
+  s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author             = { "cuiyun" => "675162379@qq.com" }
   s.platform     = :ios, "5.0"
-  s.source       = { :git => "https://github.com/Cuiyun/test2.git", :tag => "0.0.1" }
-  s.source_files  = "Person", "Person/**/*.{h,m}"
+  s.source       = { :git => "https://github.com/Cuiyun/test2.git", :tag => "v0.0.1-light" }
+  s.source_files  = "Person/*"
   s.framework  = "UIKit"
   # s.frameworks = "SomeFramework", "AnotherFramework"
 
