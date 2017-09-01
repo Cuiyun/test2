@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.author             = { "cuiyun" => "675162379@qq.com" }
   s.platform     = :ios, "5.0"
-  s.source       = { :git => "https://github.com/Cuiyun/test2.git", :commit => "cd9af13af25c25a679ed7bd72e02888a14aaed3c" }
+  s.source       = { :git => "https://github.com/Cuiyun/test2.git", :tag => "0.0.1" }
   s.source_files  = "Person", "Person/**/*.{h,m}"
   s.framework  = "UIKit"
   # s.frameworks = "SomeFramework", "AnotherFramework"
