@@ -25,8 +25,4 @@
     return [[self alloc] initWithName:name age:age sex:sex];
 }
 
-- (NSString *)description
-{
-    return [NSString stringWithFormat:@"[name = %@, age = %ld, sex = %ld]", self.name, self.age, self.sex];
-}
 @end

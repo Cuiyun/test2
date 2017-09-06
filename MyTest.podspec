@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.author             = { "cuiyun" => "675162379@qq.com" }
   s.platform     = :ios, "5.0"
   s.source       = { :git => "https://github.com/Cuiyun/test2.git", :tag => "v0.0.1-light" }
-  s.source_files  = "Person/*"
+  s.source_files  = "test谓词/**/*.{h,m}"
   s.framework  = "UIKit"
   # s.frameworks = "SomeFramework", "AnotherFramework"
 
