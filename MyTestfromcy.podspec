@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-  s.name         = "MyTestfromcy"
-  s.version      = "0.0.6"
+  s.name         = "MyTest from cy"
+  s.version      = "0.0.5"
   s.summary      = "A Test For Pod Project from cy ,xixixi"
   s.homepage     = "https://github.com/Cuiyun/test2"
   s.license      = "MIT"
