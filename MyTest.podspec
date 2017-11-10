@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
-  s.name         = "MyTest"
+  s.name         = "MyTest from cy"
   s.version      = "0.0.5"
-  s.summary      = "A Test For Pod Project from cuiyun ,xixixi"
+  s.summary      = "A Test For Pod Project from cy ,xixixi"
   s.homepage     = "https://github.com/Cuiyun/test2"
   s.license      = "MIT"
   s.author       = { "cuiyun" => "675162379@qq.com" }
